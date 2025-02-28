@@ -46,7 +46,7 @@ from email_otp import *
 import subprocess
 
 app = Flask(__name__) 
-app.secret_key = 'EmailAuthenticationByShivamYadav2021'
+app.secret_key = 'EmailAuthenticationbyMadhurimaGangireddy'
 
 
 @app.route('/')  
